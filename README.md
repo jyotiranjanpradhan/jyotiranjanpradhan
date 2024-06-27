@@ -45,10 +45,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a>
-   <a href="mailto:jyotiranjanpradhan187@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40"/></a>
+  <a href="https://www.linkedin.com/in/jyoti-ranjan-pradhan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a> 
 </p>
 
