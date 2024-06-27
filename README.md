@@ -9,15 +9,16 @@
 
 Welcome to my GitHub profile! I'm passionate about software development and love contributing to open-source projects.
 
-```yaml
-🔭 Currently Working On:Bariflo Cybernatics pvt ltd.
+
+🔭 Currently Working On: Bariflo Cybernatics pvt ltd.
 🌱 Learning: SpringBoot
-💬 Ask Me About: Java,javascript,React
+💬 Ask Me About: Java, JavaScript, React
 📫 Reach Me At: jyotiranjanpradhan187@gmail.com
 ⚡ Fun Fact: I once coded an entire project while camping in the mountains.
 
 
-🛠️ Technologies & Tools
+
+## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=007396&labelColor=000&color=000" height="40"/>
   <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000&color=000" alt="HTML5" height="40"/>
@@ -33,14 +34,14 @@ Welcome to my GitHub profile! I'm passionate about software development and love
   <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000&color=000" height="40"/>
 </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jyotiranjanpradhan&show_icons=true&theme=radical" alt="jyotiranjan's GitHub stats" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiranjanpradhan&theme=radical" alt="jyotiranjan's GitHub streak stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiranjanpradhan&layout=compact&theme=radical" alt="jyotiranjan's Top Languages" height="180em"/>
 </p>
 
-📫 Connect with Me
+## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40"/></a>
@@ -48,7 +49,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 </p>
 
 
-🌈 Animations
+## 🌈 Animations
 Here are some fun animations for you:
 
 <p align="center">
