@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 🔭 Currently Working On: **Bariflo Cybernatics pvt ltd.**
 
-🌱 Learning: **SpringBoot**
+🌱 Learning: **SpringBoot, Hibernate**
 
 💬 Ask Me About: **Java, JavaScript, React**
 
