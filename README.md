@@ -7,11 +7,9 @@
 Welcome to my GitHub profile! I'm passionate about software development and love contributing to open-source projects.
 
 
-🔭 Currently Working On: **Bariflo Cybernatics pvt ltd.**
+🔭 Currently Working On: **VichaarLab.**
 
-🌱 Learning: **SpringBoot, Hibernate**
-
-💬 Ask Me About: **Java, JavaScript, React**
+💬 Ask Me About: **NodeJs,ExpressJs,Mongodb,Redis,JavaScript, React**
 
 📫 Reach Me At: jyotiranjanpradhan187@gmail.com
 
@@ -21,7 +19,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=339933&labelColor=000&color=000" height="40"/>
   <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000&color=000" alt="JavaScript" height="40"/>
   <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=000" height="40"/>
   <img src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000&color=000" height="40"/>
